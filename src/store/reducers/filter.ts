@@ -7,6 +7,7 @@ type FilterSate = {
   valor?: enums.Grupos
 }
 
+
 const initialState: FilterSate = {
   termo: '',
   criterio: 'Todos'
