@@ -6,6 +6,7 @@ type ContatosState = {
   itens: Contatos[]
 }
 
+
 const initialState: ContatosState = {
   itens: [
     {
